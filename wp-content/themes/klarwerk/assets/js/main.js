@@ -1,4 +1,4 @@
-// Klarwerk Theme: Mobilmenü, Header beim Scrollen, Vorher/Nachher-Regler, Einblenden.
+// Reinigungs-Demo: Mobilmenü, Header beim Scrollen, Vorher/Nachher-Regler, Einblenden.
 (() => {
 	const header = document.querySelector('[data-header]');
 	const toggle = document.querySelector('[data-menu-toggle]');
